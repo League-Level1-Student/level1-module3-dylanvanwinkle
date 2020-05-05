@@ -4,6 +4,7 @@ package _07_cow_timer;
  *    Level 1
  */
 
+
 import java.applet.AudioClip;
 import java.io.IOException;
 import javax.swing.JApplet;
